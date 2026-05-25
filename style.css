@@ -41,13 +41,13 @@ h3 {
 }
 
 .logo img {
-    width: 100px;
+    width: 80px;
     height: auto;
     display: block;
 }
 
 .company-name {
-    font-size: 28px;
+    font-size: 22px;
     font-weight: 700;
     color: #1E2749;
     line-height: 1;
